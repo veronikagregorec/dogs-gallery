@@ -270,7 +270,7 @@ footer{
     transform: rotate(90deg);
     position: fixed;
     bottom: 140px;
-    right: -20px;
+    right: -40px;
     font-size: calc(14px + 0.18vw);
     color: var(--white);
     animation: footer 3s ease;

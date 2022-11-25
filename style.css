@@ -49,8 +49,8 @@ html {
 }
 
 h1{
-    -webkit-animation: text 1.5s steps(12);
-    animation: text 1.5s steps(12);
+    -webkit-animation: text 1.5s steps(16);
+    animation: text 1.5s steps(16);
     overflow: hidden;
     white-space: nowrap;
     width: 330px;

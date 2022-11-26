@@ -76,7 +76,7 @@ h1{
    background-attachment: fixed;
    margin-top: -70px;
    padding-bottom: 50px;
-   min-height: 90vh;
+   min-height: 80vh;
 }
 
 .btn{
@@ -334,7 +334,11 @@ footer{
     }
 
     #temperament{
-        width: 60%;
+       width: 60%;
+    }
+
+    .container{
+        min-height: 90vh;
     }
 }
 

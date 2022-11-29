@@ -188,10 +188,7 @@ function visibleButtonAddMoreDogs() {
 }
 
 function hideImages() {
-  // namesto zoom-image
   const zoomImgs = document.getElementsByClassName("zoom-img");
-
-  // skrije kontejner
 
   for (const item of zoomImgs) {
     item.style.display = "none";

@@ -20,7 +20,7 @@ All of the latest versions of <b>Chrome</b>, <b>Firefox</b>, <b>Edge</b> and <b>
 
 ## Screenshots
 
-Homepage shows the first 15 dogs.
+Homepage shows the first 15 dogs. Clicking the Get dogs button displays an additional 15 dogs (and so on).
 
 ![](screenshots/front.png)
 

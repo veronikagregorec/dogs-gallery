@@ -28,4 +28,4 @@ Click on an individual dog to display the dog's information.
 
 ![](screenshots/background.png)
 
-[Back to the top](#dogs-gallery)
+[Back to the top](#the-dogs-gallery)
